@@ -1,0 +1,2 @@
+teafolio/bin
+teafolio/bin-debug
