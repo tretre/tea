@@ -102,6 +102,7 @@ package layouts
 			
 			fmt.font = "Visitor TT1 BRK";
 			fmt.size = 10;
+			trace("Font Type: " + futura);
 			//stage.addEventListener(MouseEvent.ROLL_OVER, mouseOver);
 			//stage.addEventListener(MouseEvent.ROLL_OUT, mouseOut);
 			//stage.addEventListener(MouseEvent.CLICK, onMouseClick);
